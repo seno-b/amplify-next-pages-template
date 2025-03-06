@@ -6,5 +6,4 @@ export const postConfirmation = defineFunction({
   environment: {
     GROUP_NAME: 'EVERYONE'
   },
-  resourceGroupName: 'auth'
 });
